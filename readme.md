@@ -94,7 +94,7 @@ spec = mel_spectrogram(waveform)
 ## References
 
 * [1] [UrbanSound8K Dataset](https://urbansounddataset.weebly.com/)
-* [2] [Papers With Code: Environmental Sound Classification](https://paperswithcode.com/task/environmental-sound-classification)
+
 
 ## Author
 
