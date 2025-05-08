@@ -1,11 +1,3 @@
-# Ignore images folder
-images/
-
 # Ignore virtual environment
 .venv/
 
-# Ignore ESC-50-master folder
-ESC-50-master/
-
-# Ignore ESC-50-master.zip file
-ESC-50-master.zip

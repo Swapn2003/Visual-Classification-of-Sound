@@ -28,18 +28,6 @@ This project builds on that trajectory, demonstrating how **vision models (CNNs)
 - Achieve high classification accuracy on the UrbanSound8K dataset
 - Reflect on the multimodal learning insights gained from this process
 
-## Directory Structure
-
-```
-├── data/                  # Audio files (or link to dataset)
-├── notebooks/             # Blog-style explanation in Jupyter Notebook
-│   └── blog_explanation.ipynb
-├── models/                # Saved models (if applicable)
-├── results/               # Plots, confusion matrices, etc.
-├── README.md
-├── requirements.txt       # List of dependencies
-└── train.py               # Main training script (if scripted)
-```
 
 ## Dataset
 
@@ -89,19 +77,6 @@ spec = mel_spectrogram(waveform)
 - Robust performance across noisy and clean audio samples
 - Confusion matrix showing strong class-wise performance
 
-## How to Run
-
-```bash
-# Clone the repo
-git clone https://github.com/your-username/environmental-audio-classification.git
-cd environmental-audio-classification
-
-# Install dependencies
-pip install -r requirements.txt
-
-# Run training
-python train.py
-```
 
 ## Reflections
 
