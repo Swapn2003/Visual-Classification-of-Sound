@@ -1,5 +1,7 @@
 # Multimodal Analysis and Classification of Environmental Audio Using Spectrogram Representations
 
+[📽️ **Watch Video Demonstration**](https://youtu.be/dawffZTP7sE)
+
 ## Project Overview
 
 This project explores how environmental audio can be classified by converting audio signals into spectrogram representations and leveraging Convolutional Neural Networks (CNNs) — originally designed for image classification. This approach connects the audio and visual modalities, showcasing a practical case of **multimodal learning**.
